@@ -19,8 +19,11 @@ A clean, **HTML-based resume webpage** that showcases the skills, education, and
 ## Links
 - **GitHub Repository**: [View on GitHub](https://github.com/priyanshu5864/htmlResumeProject)
 - **LinkedIn**: [View Profile](https://www.linkedin.com/in/priyanshu-kumar-367a542aa)
-
+- **Website**: [View Document](http://127.0.0.1:5500/ResumeProject.html)
 ## License
 This project is licensed under the MIT License.
+
+![Screenshot 2025-05-08 123241](https://github.com/user-attachments/assets/87c11124-d57c-4f1e-bc2e-971afc8123e1)
+![Screenshot 2025-05-08 123304](https://github.com/user-attachments/assets/026564c6-e251-4b7a-8983-821bc351b62e)
 
 
