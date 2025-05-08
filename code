@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+          <div>
+      <h1>Priyanshu Kumar</h1>
+      <p>Contact: <a href="mailto:priyanshukumarace@gmail.com">priyanshukumarace@gmail.com</a></p>
+      <p>LinkedIn: <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_
+        FOLLOWS&followMember=priyanshu-kumar-367a542aa">LinkedIn.com/in/Priyanshu-kumar</a></p>
+        <p>GitHub: <a href="https://github.com/priyanshu5864">github.com/priyanshukumar</a></p>
+
+          </div> 
+          <table>
+            <tr>
+              <td>
+                <img src="IMG_4227.jpeg.jpg" alt="Priyanshu Kumar" width="150" height="150">
+              </td>
+              <td style="padding-left: 15px; vertical-align: top;">
+                Motivated computer science student with hands-on experience in full stack web development 
+                using Spring Boot and Angular. Actively learning data structures and algorithms in Java 
+                to strengthen problem-solving skills. Eager to apply technical knowledge and grow through 
+                real-world development experience.
+              </td>
+            </tr>
+          </table>
+          
+          <section>
+            <h2>Education</h2>
+            
+            
+            <ul>
+                <li>Bachelor of technology in Computer Science,Techno India University</li>
+                <li>DAV public School</li>
+            </ul>
+          </section>
+          <section>
+            <h2>
+                Skills
+            </h2>
+            <ul>
+                <li>Java</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>DSA</li>
+            </ul>
+          </section>
+          <section>
+            <h2>Projects</h2>
+            <ul>
+              <li>
+                <h3>Automatic Password Generator</h3>
+<p>Built a Java-based tool to generate strong, customizable passwords using SecureRandom and a Swing GUI.</p>
+<p>GitHub Link: <a href="https://github.com/priyanshu5864/JavaPasswordGenerator">github.com/priyanshukumar/automaticPasswordGenerator</a></p>
+              </li>
+              <li>
+                 <h3>HTML Resume Project</h3>
+                 <p>A clean HTML resume webpage showcasing Priyanshu Kumar’s skills, education, and projects. 
+                  Includes links to LinkedIn and GitHub for further professional details.
+
+                 </p>
+                 <p>Hosted link: <a href="http://127.0.0.1:5500/ResumeProject.html">WWW.priyanshukumar/Resume/document</a></p>
+                 <p>GitHub Link: <a href="https://github.com/priyanshu5864/htmlResumeProject">github.com/priyanshukumar/htmlresumeproject</a></p>
+              </li>
+              
+            </ul>
+          </section>
+    <footer>
+      <p>&#169;Priyanshu Kumar. All rights reserved.</p>
+    </footer>
+
+    </div>
+</body>
+</html>
